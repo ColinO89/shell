@@ -1,9 +1,6 @@
 /********************************************
  *	Command Execution
  *	
- *	Author: Colin Simmons
- *	11/14/2016
- *	CSCE 3600, Dr. Thompson
  ********************************************/
 #include "parse.h"
 
