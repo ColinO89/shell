@@ -1,10 +1,5 @@
 /* COMMAND PARSING SCRIPT
- * 
- * Author: Jonathan Roosa
- * Date: 11/3/16
- * Class: CSCE3600.001 Fall 2016, Dr. Thompson
- * 
- * */
+* */
 
 #include "parse.h"
 
